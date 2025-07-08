@@ -1,0 +1,185 @@
+.bg-container{
+    background-image:url("assets/image\ starting.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+}
+header{
+    background-color: #fff;
+}
+header span{
+    font-size:15px ;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+header button{
+    background-color: #20ae0b;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+}
+nav{
+     background-color: #4785bf;
+     display: flex;
+     text-align: center;
+     margin:5px;
+}
+nav a{
+     text-decoration: none;
+     color: #fff;
+     margin: 5px 20px;
+     font-weight: 600;
+     font-family:sans-serif;
+     padding: 10px;
+}
+#navid:hover{
+     text-decoration: none;
+     color: #fff;
+     margin: 5px 20px;
+     font-weight: 600;
+     font-family:sans-serif;
+     background-color: rgb(169, 120, 22);
+     border-radius: 5px;
+     padding: 10px;
+}
+div span{
+    font-size: 15px;
+    font-family: italic;
+    
+}
+div  h1{
+    font-size:55px;
+    font-family:sans-serif;
+}
+div button{
+    background-color: #abb0ab;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 15px;
+    color: #fff;
+    font-weight: bold;
+}
+h2:first-letter{
+    font-size: 60px;
+    color: #33df95;
+    background-color: #e9e9e9;
+    padding: 5px;
+   
+}
+section h2{
+    font-weight: 700;
+}
+section{
+    background-image: url("assets/image\ bg-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+section img{
+    box-shadow: 0px 0px 10px 8px #2b2b2b71 ;                                                                                                                                                              c  #282727c5;
+}    
+h6{
+    background-color: #1f79c8f1;
+    padding: 5px;
+    color: #fff;
+    font-family:sans-serif;
+}
+.bg-services{
+    background-image: url("assets/image-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#service-img{
+    border-radius:10px;
+    height: 200px;
+    width:200px ;
+    margin-top: 40px;
+    
+}
+#service-img:hover{
+    transform:rotateY(180deg);   
+    border-radius:10px;
+    height: 200px;
+    width:200px ;
+    margin-top: 40px;
+    box-shadow: 5px 5px 5px#6d6d6d7c;
+}
+.service{
+    margin: 40px;
+}
+img+button{
+    margin: 30px;
+}
+.bg-testimonials{
+    background-image: url("assets/image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.carosel-img{
+  height: 400px;
+  width: 600px;
+  margin-top: 50px;
+  
+}
+.carosel-edit{
+    width: 50%;
+   
+}
+.bg-contact{
+    background-image: url("assets/image\ shakehand.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+form{
+    background-color:transparent;
+    padding: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 9px;
+    margin: 20px;
+    border-width: 3px;
+    border-color: #302c2c;
+    box-shadow: 10px 10px 10px 12px #323131d2;
+}
+form legend{
+    font-size: 40px;
+    font-weight: 600;
+}
+.contact-heading{
+  
+  font-size: 15px;
+  margin-right: 200px;
+  font-weight: 900;
+}
+.contact-para{
+    background-color: white;
+  font-size: 15px;
+  margin-right: 200px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.contact-icon{
+    background-color:#fff ;
+    border-radius:50% ;
+    padding: 20px;
+    margin-right:10px ;
+    box-shadow: 5px 5px 5px  #4e4e4ed0;
+    font-size: 20px;
+}
+.contact-whatsapp{
+    font-size: 30px;
+    font-weight: 900;
+    
+}
+footer{
+    background-color: #969494;
+    padding: 5px;
+    color: #fff;
+}
